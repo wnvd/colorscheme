@@ -1,3 +1,5 @@
+## This is miasma.nvim with color few altercations
+
 # miasma.nvim -- "the dev branch"
 
 ```
